@@ -1,5 +1,3 @@
-# ops
-
 Ozymandias
 
 By Percy Bysshe Shelley
